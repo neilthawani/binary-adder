@@ -1,0 +1,85 @@
+.content-container {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 50%;
+    font-family: sans-serif;
+    position: relative;
+    height: 150px;
+}
+
+.box-container {
+    display: flex;
+}
+
+.box-object {
+    text-align: center;
+}
+
+.box {
+    cursor: pointer;
+    margin: 20px 5px 10px 5px;
+    background-color: rgba(255, 0, 0, 0.5);
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2px;
+}
+
+.box.active {
+    background-color: rgba(255, 0, 0, 1);
+}
+
+.box-number {
+    color: white;
+}
+
+.box-label {
+    color: black;
+    margin: 0;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.decimal-content {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.decimal-value {
+    color: blue;
+    font-weight: 600;
+    font-size: 42px;
+    margin-bottom: 10px;
+}
+
+.decimal-info {
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.feedback-content {
+    position: absolute;
+    bottom: 2px;
+    right: 5px;
+}
+
+.feedback-text {
+    font-weight: 600;
+    color: blue;
+    font-size: 12px;
+
+    a {
+        text-decoration: none;
+
+        &:hover,
+        &:visited {
+            text-decoration: none;
+            color: blue;
+        }
+    }
+}
