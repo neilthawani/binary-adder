@@ -1,5 +1,5 @@
 {
-  "name": "zybooks-component",
+  "name": "binary-adder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
