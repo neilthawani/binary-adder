@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/binary-adder/static/css/main.a898563a.chunk.css",
+    "main.js": "/binary-adder/static/js/main.a96ee14a.chunk.js",
+    "main.js.map": "/binary-adder/static/js/main.a96ee14a.chunk.js.map",
+    "runtime-main.js": "/binary-adder/static/js/runtime-main.74f9757a.js",
+    "runtime-main.js.map": "/binary-adder/static/js/runtime-main.74f9757a.js.map",
+    "static/js/2.b63ad7b5.chunk.js": "/binary-adder/static/js/2.b63ad7b5.chunk.js",
+    "static/js/2.b63ad7b5.chunk.js.map": "/binary-adder/static/js/2.b63ad7b5.chunk.js.map",
+    "static/js/3.ea2e34d4.chunk.js": "/binary-adder/static/js/3.ea2e34d4.chunk.js",
+    "static/js/3.ea2e34d4.chunk.js.map": "/binary-adder/static/js/3.ea2e34d4.chunk.js.map",
+    "index.html": "/binary-adder/index.html",
+    "static/css/main.a898563a.chunk.css.map": "/binary-adder/static/css/main.a898563a.chunk.css.map",
+    "static/js/2.b63ad7b5.chunk.js.LICENSE.txt": "/binary-adder/static/js/2.b63ad7b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74f9757a.js",
+    "static/js/2.b63ad7b5.chunk.js",
+    "static/css/main.a898563a.chunk.css",
+    "static/js/main.a96ee14a.chunk.js"
+  ]
+}
