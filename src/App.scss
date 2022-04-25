@@ -1,3 +1,23 @@
+// Desktop
+@media (min-width: 992px) {
+    .visible-phone {
+        display: none;
+    }
+}
+
+// Mobile
+@media (max-width: 991px) {
+    .content-container.hidden-phone {
+        display: none;
+    }
+
+    .visible-phone {
+        text-align: center;
+        margin-top: 25vh;
+        font-size: 48px;
+    }
+}
+
 .content-container {
     display: flex;
     justify-content: space-between;

@@ -62,7 +62,7 @@ class BaseComponent extends Component {
 
   render() {
       return (
-        <div className="content-container">
+        <div className="content-container hidden-phone">
           <div className="box-container">
             {this.state.boxExpOptions.map((option, index, array) => {
               return (

@@ -7,6 +7,11 @@ function App() {
   return (
     <div className="app-container">
       <BaseComponent />
+      <div className="visible-phone">
+        <p>
+          This page is best viewed on larger screens (tablet or bigger).
+        </p>
+      </div>
     </div>
   );
 }
